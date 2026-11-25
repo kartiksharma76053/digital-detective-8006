@@ -19,3 +19,8 @@ Each mission is completed, documented in its own `README.md`, and committed sepa
 - [Mission 6 — Git and GitHub](mission-06-git-github/README.md)
 - [Mission 7 — How computers communicate](mission-07-networking/README.md)
 - [Mission 8 — Final report and submission](mission-08-final-report/README.md)
+
+## My Learning
+- I learned how to use basic Terminal commands like `ls`, `cd`, `cp`, `mv`, and pipes (`|`) to inspect and manage files safely.
+- I understood how the operating system manages running processes (PIDs), memory, and file permissions.
+- I practiced converting between decimal, binary, and hexadecimal and wrote a simple Python converter using `bin()` and `hex()`.
